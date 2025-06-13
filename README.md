@@ -188,7 +188,7 @@
     <img src="https://cdn.openai.com/chat-assets/user-uploads/7e2f8829-d34d-4203-8c28-206c2057c558/chetan.jpg" alt="Krishna Chetan" class="profile-image">
     <h1>Krishna Chetan Paidimarri</h1>
     <p>ICT Student | Developer | Content Creator</p>
-    <img src="https://yt3.googleusercontent.com/ytc/AGIKgqM6XMKKaTFr0Efq_qidcjkW-3YVG3NeHShAoxmM=s176-c-k-c0x00ffffff-no-rj" alt="Sastra Vibes" class="channel-image">
+    <img src="[https://yt3.googleusercontent.com/ytc/AGIKgqM6XMKKaTFr0Efq_qidcjkW-3YVG3NeHShAoxmM=s176-c-k-c0x00ffffff-no-rj](https://camo.githubusercontent.com/97c1d69592253df926de334771d52b78c9bbb274b1bbb9c8e4e6a9524e8a6609/68747470733a2f2f7974332e67677068742e636f6d2f552d6262377a6547384d5758426f2d345176333069644c73636769534e47426764327453324e4868774e6c44325a4a5469783950637a4b7a30537659414a703567346e646834506a3d733630302d632d6b2d63307830306666666666662d6e6f2d726a2d72702d6d6f)" alt="Sastra Vibes" class="channel-image">
     <div class="social-icons">
       <a href="https://www.linkedin.com/in/paidimarri-krishna-chetan" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://www.youtube.com/@sastravibes" target="_blank"><i class="fab fa-youtube"></i></a>

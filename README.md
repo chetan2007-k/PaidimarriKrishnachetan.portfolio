@@ -15,6 +15,9 @@
     nav {
       background: #111;
       padding: 10px;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
       display: flex;
       justify-content: center;
     }

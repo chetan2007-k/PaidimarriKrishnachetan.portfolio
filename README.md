@@ -190,7 +190,7 @@
   </nav>
 
   <header>
-    <img src="https://cdn.openai.com/chat-assets/user-uploads/7e2f8829-d34d-4203-8c28-206c2057c558/chetan.jpg" alt="Krishna Chetan" class="profile-image">
+    <img src="https://ik.imagekit.io/rmlbayysp/1749800149432-chetan_photo_new__a4CJ7kCT3.jpg" alt="Krishna Chetan" class="profile-image">
     <h1>Krishna Chetan Paidimarri</h1>
     <p>ICT Student | Developer | Content Creator</p>
     <img src="https://yt3.ggpht.com/U-bb7zeG8MWXBo-4Qv30idLscgiSNGBgd2tS2NHhwNlD2ZJTix9PczKz0SvYAJp5g4ndh4Pj=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="Sastra Vibes" class="channel-image">

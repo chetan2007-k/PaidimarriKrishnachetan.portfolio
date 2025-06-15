@@ -255,7 +255,7 @@
       <img src="https://yt3.ggpht.com/U-bb7zeG8MWXBo-4Qv30idLscgiSNGBgd2tS2NHhwNlD2ZJTix9PczKz0SvYAJp5g4ndh4Pj=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="YouTube Channel" class="channel-image">
       <p>Channel: <a href="https://www.youtube.com/@sastravibes" target="_blank">Sastra Vibes</a></p>
       <iframe width="100%" height="315" src="https://www.youtube.com/embed/NAuExe3UKGQ" frameborder="0" allowfullscreen></iframe>
-      <p>Subscribers: 378</p>
+      <p>Subscribers: 382</p>
       <div class="stars">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>

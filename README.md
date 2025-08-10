@@ -460,7 +460,7 @@
       const target = document.getElementById('youtube-video');
 
       // If no API key provided, show helpful fallback and keep current static video
-      if(!API_KEY || API_KEY === "YOUR_YOUTUBE_API_KEY"){
+      if(!API_KEY || API_KEY === "AIzaSyC-5m1evw5HbM-j2QSfiYxe63f0MZYMh8g"){
         target.innerHTML = `
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/NAuExe3UKGQ" frameborder="0" allowfullscreen style="display:block"></iframe>
           <div style="margin-top:8px;color:rgba(255,255,255,0.6);font-size:0.95rem">Tip: Add your YouTube API key in the script for auto-updating videos.</div>

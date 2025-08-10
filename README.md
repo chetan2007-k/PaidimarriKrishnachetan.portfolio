@@ -392,7 +392,7 @@
           <div style="min-width:140px;display:flex;flex-direction:column;align-items:center;gap:8px">
             <img src="https://yt3.ggpht.com/U-bb7zeG8MWXBo-4Qv30idLscgiSNGBgd2tS2NHhwNlD2ZJTix9PczKz0SvYAJp5g4ndh4Pj=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="Sastra Vibes" class="channel-image" style="width:100px;height:100px;border-radius:14px;border:3px solid rgba(255,0,0,0.08);box-shadow:0 12px 36px rgba(255,0,0,0.04)">
             <a href="https://www.youtube.com/@sastravibes" target="_blank" rel="noopener noreferrer" class="btn" style="padding:8px 14px;font-size:14px">Visit Channel</a>
-            <div class="muted" style="margin-top:6px">Subscribers: <strong>1.5k</strong></div>
+            <div class="muted" style="margin-top:6px">Subscribers: <strong>1.50K </strong></div>
           </div>
 
           <div style="flex:1;min-width:280px" class="youtube-wrap">

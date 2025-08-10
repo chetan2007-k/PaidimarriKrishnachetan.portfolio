@@ -290,7 +290,7 @@
   <header>
     <div class="avatar-wrap" aria-hidden="true">
       <!-- Replace the src filename if your service uses a different path -->
-      <img src="chetan-photo-new.jpg" alt="Krishna Chetan" class="profile-image">
+      <img src="https://res.cloudinary.com/dzfqapzbg/image/upload/v1754827179/WhatsApp_Image_2025-08-10_at_17.28.15_7d8e06c0_fgihvz.jpg" alt="Krishna Chetan" class="profile-image">
     </div>
     <h1>Krishna Chetan Paidimarri</h1>
     <p class="muted">ICT Student | Developer | Content Creator</p>

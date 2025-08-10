@@ -454,8 +454,9 @@
      *  - CHANNEL_ID is your channel: UC33NV7XOrUtzLCcxLliy6Ug
      ***********************************************/
     (function(){
-      const API_KEY = "YOUR_YOUTUBE_API_KEY"; // <-- PUT YOUR API KEY HERE
-      const CHANNEL_ID = "UC33NV7XOrUtzLCcxLliy6Ug";
+      const API_KEY = "AIzaSyC-5m1evw5HbM-j2QSfiYxe63f0MZYMh8g";
+const CHANNEL_ID = "UC33NV7XOrUtzLCcxLliy6Ug";
+
       const target = document.getElementById('youtube-video');
 
       // If no API key provided, show helpful fallback and keep current static video

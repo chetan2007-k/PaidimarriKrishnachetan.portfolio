@@ -454,13 +454,13 @@
      *  - CHANNEL_ID is your channel: UC33NV7XOrUtzLCcxLliy6Ug
      ***********************************************/
     (function(){
-      const API_KEY = "";
+      const API_KEY = "------------------";
       const CHANNEL_ID = "UC33NV7XOrUtzLCcxLliy6Ug";
 
       const target = document.getElementById('youtube-video');
 
       // If no API key provided, show helpful fallback and keep current static video
-      if(!API_KEY || API_KEY === ""){
+      if(!API_KEY || API_KEY === "------------------"){
         target.innerHTML = `
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/NAuExe3UKGQ" frameborder="0" allowfullscreen style="display:block"></iframe>
           <div style="margin-top:8px;color:rgba(255,255,255,0.6);font-size:0.95rem">Tip: Add your YouTube API key in the script for auto-updating videos.</div>
